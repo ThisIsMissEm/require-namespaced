@@ -1,6 +1,6 @@
 {
   "name": "require-namespaced",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A solution for a problem you shouldn't have. You should use private npm packages.",
   "main": "index.js",
   "scripts": {
