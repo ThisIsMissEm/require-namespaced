@@ -1,0 +1,23 @@
+{
+  "name": "require-namespaced",
+  "version": "0.0.0",
+  "description": "A solution for a problem you shouldn't have. You should use private npm packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miksago/require-namespaced.git"
+  },
+  "keywords": [
+    "require",
+    "namespaced"
+  ],
+  "author": "Micheil Smith <micheil@brandedcode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miksago/require-namespaced/issues"
+  },
+  "homepage": "https://github.com/miksago/require-namespaced"
+}
